@@ -1,0 +1,20 @@
+{
+  "name": "inft-2202-lab",
+  "version": "1.0.0",
+  "description": "for-lab-one",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJDC2024/inft-2202-lab.git"
+  },
+  "author": "junelle-james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJDC2024/inft-2202-lab/issues"
+  },
+  "homepage": "https://github.com/JJDC2024/inft-2202-lab#readme"
+}
